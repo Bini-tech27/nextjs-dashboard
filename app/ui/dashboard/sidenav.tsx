@@ -28,5 +28,4 @@ export default function SideNav() {
   );
 }
 
-export const experimental_ppr = true;
 
